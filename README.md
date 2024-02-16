@@ -52,7 +52,7 @@ cv2.waitKey(0)
 
 ### i) Read and display the image
 
-![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/4b588ef6-a510-42b0-a73f-805edfa7cf52)
+![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/6c949b64-bc7a-42f4-bf8a-360fc046fe83)
 
 #### ii)Write the image
 ```
