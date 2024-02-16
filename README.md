@@ -62,7 +62,7 @@ cv2.imwrite("cats.jpg",img)
 
 ```
 
-### output:
+### Output:
 
 ### ii)Write the image
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/07e221e5-7921-49af-9400-efd6f352e79a)
@@ -72,7 +72,7 @@ cv2.imwrite("cats.jpg",img)
 print(img.shape)
 ```
 
-### output:
+### Output:
 ### iii)Shape of the Image
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/12a2207f-bb3d-4582-8d43-bf29674a1df8)
 
@@ -90,7 +90,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 
-### output:
+### Output:
 ### iv)Access rows and columns
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/b17664e0-3586-4ffd-bed6-2e887a0702c4)
 
@@ -102,7 +102,7 @@ cv2.imshow('partimage1',image)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-#### output:
+### Output:
 ### v)Cut and paste portion of image
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/2be19d6b-2b5d-4a2b-8bbd-1a0f4aeeae76)
 
@@ -125,7 +125,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-#### output:
+### Output:
 ### vi) BGR and RGB to HSV and GRAY
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/eb040c56-8424-4a40-afc6-be7de4eea465)
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/96986a6b-5cb5-4e67-9e17-5fb7b2e3dddf)
@@ -152,7 +152,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-#### output:
+### Output:
 ### vii) HSV to RGB and BGR
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/cefb0e66-fccb-4f25-bd63-6a2ba1cbff4f)
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/3dcc0861-b7c0-4aca-9f34-48e7bca43f43)
@@ -175,7 +175,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-#### output:
+### Output:
 ### viii) RGB and BGR to YCrCb
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/cebda66c-1b2a-429b-920f-478f69722019)
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/bd69adf5-9242-46ee-bc6c-06b16a0bc0f8)
@@ -201,7 +201,7 @@ cv2.imshow('Merged RGB image',merged)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
-#### output:
+### 0utput:
 ### ix) Split and merge RGB Image
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/6d6faee0-84f0-4750-a8b2-449e08dd5330)
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/6b57fcd3-4abd-4754-a3ce-6db363063b7b)
@@ -228,7 +228,7 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 
 ```
-#### output:
+### Output:
 ### x) Split and merge HSV Image
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/3e23d693-d5d7-4713-a675-32056c6cedff)
 ![image](https://github.com/SandhiyaR1/COLOR_CONVERSIONS_OF-IMAGE/assets/113497571/edccab37-4653-4295-acb5-dc323cee5e18)
